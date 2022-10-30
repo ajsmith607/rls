@@ -1,4 +1,5 @@
-baseURL = "https://reaganlandsurveying.com/"
+# baseURL = "https://reaganlandsurveying.com/"
+baseURL = "https://ajs17.github.io/rls/"
 languageCode = "en-us"
 title = "Reagan Land Surveying"
 publishDir = "docs" 
