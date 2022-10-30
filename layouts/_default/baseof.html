@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+    <head>
+        {{ partial "head-meta" . }}
+        {{ partial "head-links" . }}
+        {{ partial "head-css" . }}
+    </head>
+    <body id="{{ with .Site.Params.bodyid }}{{ . | safeHTML }}{{ end }}">
+        {{ partial "header" . }}
+        {{ block "main" . }}{{ end }}
+        {{ partial "footer" . }}
+        {{ partial "analytics" . }}
+    </body>
+</html> 

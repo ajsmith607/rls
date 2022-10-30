@@ -1,0 +1,8 @@
+<svg width="1e3mm" height="600mm" inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)" sodipodi:docname="background.svg" version="1.1" viewBox="0 0 1e3 600" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#eeeeee" borderopacity="1" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" guidecolor="#0000ff" guideopacity="0.88235294" guidetolerance="10000" inkscape:current-layer="layer1" inkscape:cx="2631.6562" inkscape:cy="1135.0594" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:pageshadow="0" inkscape:window-height="1042" inkscape:window-maximized="1" inkscape:window-width="958" inkscape:window-x="960" inkscape:window-y="38" inkscape:zoom="0.29734127" objecttolerance="20" pagecolor="#505050" showgrid="false">
+  <inkscape:grid enabled="false" originx="-89.522064" originy="-7.9921135" spacingx="13.229167" spacingy="13.229167" type="xygrid"/>
+ </sodipodi:namedview>
+ <g transform="translate(-89.522 -7.9921)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+  <path d="m89.522 7.9921h1e3v396.53l-1e3 203.47z" style="fill:#161616;stroke-opacity:.1951;stroke-width:1.0583" sodipodi:nodetypes="ccccc"/>
+ </g>
+</svg>
