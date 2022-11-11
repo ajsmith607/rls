@@ -1,5 +1,4 @@
 
-
 ![Reagan Land Surveying logo](/static/rls-logo.svg)
 
 A [Hugo](https://gohugo.io/) based site hosted on Github Pages and available at https://ajs17.github.io/rls/ .
