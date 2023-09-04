@@ -1,3 +1,3 @@
-module github.com/ajs17/rls
+module github.com/ajsmith607/rls
 
 go 1.17
