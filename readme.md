@@ -1,7 +1,7 @@
 
 ![Reagan Land Surveying logo](/static/rls-logo.svg)
 
-A [Hugo](https://gohugo.io/) based site hosted on Github Pages and available at https://ajs17.github.io/rls/ .
+A [Hugo](https://gohugo.io/) based site hosted on Github Pages and available at https://ajsmith607.github.io/rls/ .
 
 **Desktop version:**
 
@@ -11,4 +11,4 @@ A [Hugo](https://gohugo.io/) based site hosted on Github Pages and available at 
 
 ![Reagan Land Surveying mobile screenshot](/static/screenshots/after-mobile.png)
 
-The site depends on a base theme found in the [Hugo Minimal Components](https://github.com/ajs17/hugo-min-components) project, also on Github.
+The site depends on a base theme found in the [undergo](https://github.com/ajsmith607/undergo) project, also on Github.
