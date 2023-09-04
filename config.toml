@@ -1,5 +1,5 @@
 # baseURL = "https://reaganlandsurveying.com/"
-baseURL = "https://ajs17.github.io/rls/"
+baseURL = "https://ajsmith607.github.io/rls/"
 languageCode = "en-us"
 title = "Reagan Land Surveying"
 publishDir = "docs" 
@@ -17,7 +17,7 @@ paginate = "50"
 [module]
   _merge = "deep"
   [[module.imports]]
-    path = "github.com/ajs17/hugo-min-components"
+    path = "github.com/ajsmith607/undergo"
  
 [markup]
   _merge = "deep"
